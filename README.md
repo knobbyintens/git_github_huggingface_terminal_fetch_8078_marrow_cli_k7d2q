@@ -14,5 +14,6 @@ This file is maintained by hand according to the rules in `docs/CONTRIBUTING.md`
 | v0.6 | 2025-09-08 | stable | theme presets |
 | v0.7 | 2025-10-30 | stable | scratch cleanup |
 | v0.8 | 2025-12-12 | stable | scratch index refresh |
+| v0.9 | 2026-01-23 | stable | notebook export tweak |
 
 Scratch copy kept by the command-line team for index-rendering experiments; it is not the project release index.
